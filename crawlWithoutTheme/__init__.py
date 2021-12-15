@@ -1,0 +1,11 @@
+"""
+爬取的字段:
+ID：id
+主题:topic
+内容:content
+时间:time
+可选参数:
+    阅读量:read
+    转载量:trans
+    点赞量:like
+"""
